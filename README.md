@@ -15,4 +15,4 @@ Allyn Hunt - www.AllynH.com
 #Important note:
 This code will only work from 10am Friday morning to 10am Sunday morning!
 The user will need to fill in the value of their X-API-Key in the Get_Xur_inventory.py file:
-HEADERS = {"X-API-Key":'<YOUR-X-API-Key>'}
+HEADERS = {"X-API-Key":'YOUR-X-API-Key'}

@@ -23,7 +23,7 @@ xur_url = "https://www.bungie.net/Platform/Destiny/Advisors/Xur/"
 hashType = "6"
 
 # Send the request and store the result in res:
-print "\n\n\nConnecting to Bungie: " + req_string + "\n"
+print "\n\n\nConnecting to Bungie: " + xur_url + "\n"
 print "Fetching data for: Xur's Inventory!"
 res = requests.get(xur_url, headers=HEADERS)
 
